@@ -690,14 +690,14 @@ export const actionChangeFontFamily = register({
       text: string;
       icon: JSX.Element;
     }[] = [
-      // {
-      //   value: FONT_FAMILY.Virgil,
-      //   text: t("labels.handDrawn"),
-      //   icon: FreedrawIcon,
-      // },
+      {
+        value: FONT_FAMILY.Virgil,
+        text: t("labels.handDrawn"),
+        icon: FreedrawIcon,
+      },
       {
         value: FONT_FAMILY.Xinyou,
-        text: t("labels.handDrawn"),
+        text: `${t("labels.handDrawn")} 1`,
         icon: FreedrawIcon,
       },
       {
