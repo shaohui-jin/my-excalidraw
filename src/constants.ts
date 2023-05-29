@@ -87,7 +87,7 @@ export const FONT_FAMILY = {
   Helvetica: 2,
   Cascadia: 3,
   Muyao: 4,
-  XinYeNianTi: 5
+  XinYeNianTi: 5,
 };
 
 export const THEME = {
