@@ -54,9 +54,13 @@ const elements = [
   },
 ];
 
-registerFont("./public/Virgil.woff2", { family: "Virgil" });
-registerFont("./public/Xinyou.woff2", { family: "Xinyou" });
-registerFont("./public/Cascadia.woff2", { family: "Cascadia" });
+registerFont("./public/Assistant.woff2", { family: "Assistant" });
+
+
+registerFont("./public/fonts/Cascadia.woff2", { family: "Cascadia" });
+registerFont("./public/fonts/Virgil.woff2", { family: "Virgil" });
+registerFont("./public/fonts/Muyao.ttf", { family: "Muyao" });
+registerFont("./public/fonts/XinYeNianTi.otf", { family: "XinYeNianTi" });
 
 const canvas = exportToCanvas(
   elements as any,
