@@ -1,0 +1,73 @@
+/* http://www.eaglefonts.com/fg-virgil-ttf-131249.htm */
+@font-face {
+  font-family: "Virgil";
+  src: url("./fonts/Virgil.woff2");
+  font-display: swap;
+}
+
+@font-face {
+  /* 沐瑶软笔手写体 */
+  font-family: "Muyao";
+  src: url("./fonts/Muyao.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 新叶恋体 */
+  font-family: "XinYeLianTi";
+  src: url("./fonts/XinYeLianTi.otf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 今年也要加油鸭 */
+  font-family: "JinNianYeYaoJiaYouYa";
+  src: url("./fonts/JinNianYeYaoJiaYouYa.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 夏行楷 */
+  font-family: "XiaXingKai";
+  src: url("./fonts/XiaXingKai.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 鸿雷行书简体 */
+  font-family: "HongLeiXingShuJianTi";
+  src: url("./fonts/HongLeiXingShuJianTi.otf");
+  font-display: swap;
+}
+
+/* https://github.com/microsoft/cascadia-code */
+@font-face {
+  font-family: "Cascadia";
+  src: url("./fonts/Cascadia.woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Assistant";
+  src: url("Assistant-Regular.woff2");
+  font-display: swap;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Assistant";
+  src: url("Assistant-Medium.woff2");
+  font-display: swap;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Assistant";
+  src: url("Assistant-SemiBold.woff2");
+  font-display: swap;
+  font-weight: 600;
+}
+@font-face {
+  font-family: "Assistant";
+  src: url("Assistant-Bold.woff2");
+  font-display: swap;
+  font-weight: 700;
+}
