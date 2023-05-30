@@ -54,13 +54,16 @@ const elements = [
   },
 ];
 
-registerFont("./public/Assistant.woff2", { family: "Assistant" });
+// registerFont("./public/Assistant.woff2", { family: "Assistant" });
 
 
 registerFont("./public/fonts/Cascadia.woff2", { family: "Cascadia" });
 registerFont("./public/fonts/Virgil.woff2", { family: "Virgil" });
 registerFont("./public/fonts/Muyao.ttf", { family: "Muyao" });
-registerFont("./public/fonts/XinYeNianTi.otf", { family: "XinYeNianTi" });
+registerFont("./public/fonts/XinYeLianTi.otf", { family: "XinYeLianTi" });
+registerFont("./public/fonts/JinNianYeYaoJiaYouYa.ttf", { family: "JinNianYeYaoJiaYouYa" });
+registerFont("./public/fonts/XiaXingKai.ttf", { family: "XiaXingKai" });
+registerFont("./public/fonts/HongLeiXingShuJianTi.otf", { family: "HongLeiXingShuJianTi" });
 
 const canvas = exportToCanvas(
   elements as any,

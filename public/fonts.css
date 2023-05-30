@@ -6,14 +6,37 @@
 }
 
 @font-face {
+  /* 沐瑶软笔手写体 */
   font-family: "Muyao";
   src: url("./fonts/Muyao.ttf");
   font-display: swap;
 }
 
 @font-face {
-  font-family: "XinYeNianTi";
-  src: url("./fonts/XinYeNianTi.otf");
+  /* 新叶恋体 */
+  font-family: "XinYeLianTi";
+  src: url("./fonts/XinYeLianTi.otf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 今年也要加油鸭 */
+  font-family: "JinNianYeYaoJiaYouYa";
+  src: url("./fonts/JinNianYeYaoJiaYouYa.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 夏行楷 */
+  font-family: "XiaXingKai";
+  src: url("./fonts/XiaXingKai.ttf");
+  font-display: swap;
+}
+
+@font-face {
+  /* 鸿雷行书简体 */
+  font-family: "HongLeiXingShuJianTi";
+  src: url("./fonts/HongLeiXingShuJianTi.otf");
   font-display: swap;
 }
 

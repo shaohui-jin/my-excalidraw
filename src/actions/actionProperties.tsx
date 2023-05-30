@@ -701,8 +701,23 @@ export const actionChangeFontFamily = register({
         icon: FreedrawIcon,
       },
       {
-        value: FONT_FAMILY.XinYeNianTi,
-        text: `${t("labels.handDrawn")} - XinYeNianTi`,
+        value: FONT_FAMILY.XinYeLianTi,
+        text: `${t("labels.handDrawn")} - XinYeLianTi`,
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.JinNianYeYaoJiaYouYa,
+        text: `${t("labels.handDrawn")} - JinNianYeYaoJiaYouYa`,
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.XiaXingKai,
+        text: `${t("labels.handDrawn")} - XiaXingKai`,
+        icon: FreedrawIcon,
+      },
+      {
+        value: FONT_FAMILY.HongLeiXingShuJianTi,
+        text: `${t("labels.handDrawn")} - HongLeiXingShuJianTi`,
         icon: FreedrawIcon,
       },
       {
